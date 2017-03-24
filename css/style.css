@@ -1,0 +1,153 @@
+
+.wrapper {
+    background:#ffffff;
+    height: 200px;
+}
+
+.header {
+     height: 100%; 
+    background : url(/images/background.png)100% 100% no-repeat; /* Добавляем фон */
+    background-size: cover; /* Масштабируем фон */
+}
+
+
+
+.header_info {
+       width: 70%;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.logo {
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.my_name {
+display: inline-block;
+height: 90px;
+    vertical-align:bottom;
+    margin-left: 10px;
+    
+}
+
+.dg {
+      font-size: 22px;
+  font-family: "Montserrat";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.6;
+  text-align: left;
+    display: block;
+    
+}
+
+
+
+.myname_dg {
+    display: block;
+}
+
+.dop_info {
+    height: auto;
+    vertical-align:bottom;
+    font-size: 10px;
+  font-family: "Montserrat";
+  color: rgb(0, 0, 0);
+  text-align: left;
+    margin:0px;
+        padding:0px;
+
+}
+
+.content {
+
+
+  font-size: 16px;
+  font-family: "DINPro";
+  color: rgb(109, 111, 114);
+  line-height: 2.333;
+  text-align: left;
+
+}
+
+
+
+
+
+}
+
+.titles {
+  font-size: 14px;
+  font-family: "Minion Pro";
+  color: rgb(26, 24, 24);
+  line-height: 3;
+  text-align: left;
+}
+
+
+.bio {
+
+      font-size: 15px;
+    color: rgb(109, 111, 114);
+    line-height: 2.5;
+
+
+
+
+
+}
+
+#content {
+    margin-top: 15px;
+}
+
+.biography {
+    
+  font-size: 18px;
+  color: rgb(26, 24, 24);
+  line-height:3;
+  text-align: left;
+    font-style:normal;
+
+
+
+
+
+}
+
+.links {
+    float: right;
+ 
+  font-size: 16px;
+  font-family: "Montserrat";
+  color: rgb(109, 111, 114);
+  line-height: 2.333;
+
+
+
+}
+
+.vk {
+    list-style-image: url(/images/1490139956_vkontakte.png);
+}
+
+.git {
+    list-style-image: url(/images/github.png);
+}
+
+.inst {
+    list-style-image: url(/images/instagram-icon-200.png);
+}
+
+.gmail {
+    list-style-image: url(/images/gmail.png);
+}
+
+#workandeducation {
+    font-size: 14px;
+}
